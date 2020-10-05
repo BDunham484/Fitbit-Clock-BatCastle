@@ -1,0 +1,154 @@
+.background {
+  viewport-fill: black;
+}
+
+#myLabel {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 90%;
+  fill: antiquewhite;
+}
+
+#heartLabel {
+  font-size: 25;
+  font-family: Seville-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: -10;
+  fill: antiquewhite;
+}
+
+#heartIcon {
+  width: 25;
+  height: 25;
+  href: "heart_rate_black_transparent_36px.png";
+  fill: orange;
+  }
+
+#stepsLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 30;
+  fill: antiquewhite;
+}
+
+#stepsIcon {
+  width: 25;
+  height: 25;
+  href: "steps_black_transparent_36px.png";
+  fill: white;
+}
+
+#caloriesLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 30;
+  fill: antiquewhite;
+}
+
+#caloriesIcon {
+  width: 25;
+  height: 25;
+  href: "calories_black_transparent_36px.png";
+  fill: white;
+}
+
+#activeLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 13;
+  y: 50;
+  fill: antiquewhite;
+}
+
+#activeIcon {
+  width: 25;
+  height: 25;
+  href: "azm_orange_transparent_36px.png";
+  fill: white;
+}
+
+#floorsLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: -10;
+  fill: antiquewhite;
+}
+
+#floorsIcon {
+  width: 25;
+  height: 25;
+  href: "floors_black_transparent_36px.png";
+  fill: white;
+}
+
+#distanceLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 30;
+  fill: antiquewhite;
+}
+
+#distanceIcon {
+  width: 25;
+  height: 25;
+  href: "distance_black_transparent_36px.png";
+  fill: white;
+}
+
+#powerLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 0;
+  fill: antiquewhite;
+}
+
+#batImg {
+  width: 40;
+  height: 25;
+  href: "battery-100.png";
+  x: -45;
+}
+
+#monthLabel {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 30;
+  fill: antiquewhite;
+}
+
+#dayLabel {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 35;
+  fill: antiquewhite;
+}
+
+#dayNameLabel {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: -25;
+  fill: antiquewhite;
+}
+
